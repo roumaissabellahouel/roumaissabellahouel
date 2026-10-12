@@ -1,6 +1,6 @@
 # Salut, je suis Roumaissa 👋
 
-Étudiante en 5ème année **Systèmes Informatiques & Web** à l'**ESI-SBA** (Sidi Bel Abbès), basée à Oran 🇩🇿.
+Étudiante en 3ème année du cycle supérieur à l'**ESI-SBA** (École Supérieure en Informatique, Sidi Bel Abbès), spécialité **Systèmes d'Information et Web**, basée à Oran 🇩🇿.
 
 Je construis des **sites web**, des **systèmes de gestion** et des **automatisations IA** pour les commerces algériens,
 avec des solutions concrètes : paiement à la livraison, gestion par wilaya, commandes WhatsApp.
